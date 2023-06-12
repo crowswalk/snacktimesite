@@ -21,7 +21,7 @@
 title: snacktime games
 email: snacktimegamestudio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey, if you're reading this, congratulations! You've made it to our footer. If you wanna keep up with us, follow our socials!
+  Site was made in a stupid manner, probably due to hunger.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snacktimegames
@@ -31,6 +31,28 @@ twitter_username: snacktimegames
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+
+  # social_links:
+#   - { platform: devto,          user_url: "https://dev.to/jekyll" }
+#   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
+#   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+#   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
+#   - { platform: github,         user_url: "https://github.com/crowswalk" }
+#   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+#   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+#   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
+#   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+#   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
+#   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
+#   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
+#   - { platform: telegram,       user_url: "https://t.me/jekyll" }
+#   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
+#   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+
+header_pages:
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

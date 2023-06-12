@@ -1,12 +1,12 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&family=Source+Serif+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
 h1,
 h2,
 .site-title {
-    font-family: 'Source Sans Pro', serif;
+    font-family: 'Do Hyeon', sans-serif;
     color: $accent-color;
-    font-weight: bold;
     margin-bottom: 2px;
 }
 
@@ -14,9 +14,33 @@ img {
     border-radius: 3px;
 }
 
-.bird {
-    width: 40%;
-    margin: auto;
+body {
+    background-image: url('../../images/signal_creek_poster.jpg');
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-color: $body-color;
+    background-position-x: center;
+    font-size: large;
+}
+
+hr {
+    margin: 1rem;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px solid $accent-color;
+    width: fit-content;
+}
+
+table th,
+table td {
+    line-height: 1.2rem;
+    border: 0;
+}
+
+table tr:nth-child(even) {
+    background-color: $body-color;
 }
 
 a,
@@ -30,6 +54,14 @@ a:visited,
 
 .site-header {
     border-top: 5px solid $accent-color;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    background-color: $body-color;
+}
+
+.site-footer {
+    background-color: $body-color;
 }
 
 .button,
@@ -50,60 +82,49 @@ a:visited,
     background-color: $accent-color-light;
 }
 
-.gridbox {
-    line-height: 0.2rem;
-    box-sizing: border-box;
-    margin: 0;
-    margin-bottom: $spacing-unit;
-    column-gap: $spacing-unit * .5;
-    column-count: 1;
-    justify-content: center;
-}
-
-@media screen and (min-width: $on-large) {
-    .gridbox {
-        column-count: 4;
+@media screen and (min-width: 1118px) {
+    body {
+        background-size: 100% auto;
     }
 }
 
-@media screen and (min-width: $on-medium) {
-    .gridbox {
-        column-count: 3;
-    }
-}
-
-.gridbox>p>img {
-    margin-bottom: $spacing-unit * .5;
-}
-
-#picmodal {
-    display: none;
-    position: fixed;
-    z-index: 10;
-    width: 100%;
-    height: 100%;
-    background-color: #2b2b2bcc;
-    justify-content: center;
-    align-items: center;
-}
-
-#focusedImg {
+.landing {
+    background-color: $body-color;
+    border-radius: 3px;
+    padding: $spacing-unit;
+    // font-size: larger;
     margin: auto;
-    width: 85%;
-    height: 85%;
-    object-fit: contain;
 }
 
-#x {
-    display: none;
-    position: fixed;
-    top: 2rem;
-    right: 2rem;
-    width: 2rem;
-    z-index: 12;
+// .landing>p {
+//     display: flex;
+//     justify-content: center;
+// }
+.team-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: $spacing-unit;
 }
 
-#landing-image {
+.team-box>div>p,
+.nutrition>p {
+    margin: 0;
+}
+
+.team-box>div>p>img {
     width: 100%;
-    height: 500px;
+    border-radius: 50%;
+    margin-bottom: $spacing-unit * 0.45;
 }
+
+@media screen and (min-width: 1118px) {
+    body {
+        background-size: 100% auto;
+    }
+}
+
+// @media screen and (min-width: $on-medium) {
+//     .team-box {
+//         column-count: 3;
+//     }
+// }
