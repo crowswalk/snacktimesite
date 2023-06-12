@@ -52,6 +52,11 @@ a:visited,
     color: $accent-color;
 }
 
+.menu-icon,
+.menu-icon>path {
+    color: $accent-color;
+}
+
 .site-header {
     border-top: 5px solid $accent-color;
     position: -webkit-sticky;
