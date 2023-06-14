@@ -107,7 +107,7 @@ a:visited,
 // }
 .team-box {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     grid-gap: $spacing-unit;
 }
 
@@ -128,8 +128,8 @@ a:visited,
     }
 }
 
-// @media screen and (min-width: $on-medium) {
-//     .team-box {
-//         column-count: 3;
-//     }
-// }
+@media screen and (min-width: $on-medium) {
+    .team-box {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}

@@ -7,4 +7,22 @@ title: Signal Creek
 ---
 # Signal Creek
 
-Insert lore here
+## Synopsis
+
+Nour, a 22 year-old college student, sneaks into the soon-to-be demolished Signal Creek mall, but quickly finds herself trapped with her little brother’s best friend and her professional mentor. In order to escape the dreamlike reality of the mall, Nour must guide everyone—including herself— through a journey of reconciliation.
+
+<iframe frameborder="0" src="https://itch.io/embed/2057184?bg_color=13141f&amp;fg_color=ffffff&amp;link_color=c8b8cd&amp;border_color=41424d" width="208" height="167"><a href="https://snacktimegames.itch.io/signal-creek">Signal Creek: The Floor of the Past (DEMO) by snacktimegames</a></iframe>
+
+## Background
+
+Signal Creek was a year-long Capstone project designed by recent graduates of the NYU Game Center. We're looking to expand our audience before we continue production. If you want to see more of Signal Creek, please download our demo on itch.io to show your support!
+
+## Demo: The Floor of the Past
+
+Signal Creek's current demo showcases “The Floor of the Past”, which is the first of three levels. The next two will be “The Floor of the Present” and “The Floor of the Future”.
+
+The Floor of the Past is comprised of three completable routes that follow three character arcs relating to the theme of the past, along with an introduction to the strange world of the mall.
+
+This demo displays the psyche of Nour through its dynamic dialogue system, a robust cast of special NPCs, three explorable rooms, beautiful pixel art assets, and original music.
+
+Beyond the current demo, each character still has a journey of personal growth ahead of them, and their group dynamic will evolve. Furthermore, the next levels will explore even more of the Signal Creek mall and the mystery behind its existence.

@@ -28,50 +28,52 @@ snacktime games is a group of warm-blooded vertebrates characterized by their st
 
 <div markdown = 1>
 ![alt](../images/ashley.jpg)
-## Ashley Whang
+## [Ashley Whang](https://aw225.itch.io/)
 Project Manager, Narrative Designer & Writer
 </div>
 
 <div markdown = 1>
-![alt](../images/orangutan.jpg)
-## Dominik Kopiczko
+![alt](../images/dominik.jpg)
+## [Dominik Kopiczko](https://adomaniia.itch.io/)
 Narrative Designer & Writer, Level & Gameplay Designer
 </div>
 
 <div markdown = 1>
-![alt](../images/orangutan.jpg)
-## Erna Balayan
+![alt](../images/erna.jpg)
+## [Erna Balayan](https://ernabalayan.itch.io/)
 Narrative Designer & Writer, Artist
 </div>
 
 <div markdown = 1>
 ![alt](../images/esra.jpg)
-## Sarah (Es) Slovak
+## [Sarah (Es) Slovak](https://remxiia.itch.io/)
 Narrative Designer & Writer
 </div>
 
 <div markdown = 1>
-![alt](../images/esra.jpg)
-## Kaz Li
+![alt](../images/kaz.png)
+## [Kaz Li](https://kl3542.wixsite.com/portfolio)
 Narrative Designer & Writer, Artist, UI/UX Designer
 </div>
 
 <div markdown = 1>
-![alt](../images/esra.jpg)
-## Max Seavey
+![alt](../images/max.png)
+## [Max Seavey](https://crowswalk.github.io/)
 Project Manager, Technical Narrative Designer & Writer, Artist
 </div>
 
 <div markdown = 1>
-![alt](../images/esra.jpg)
-## Malachi Gregory
-Composer, Music Producer, Sound Designer
+![alt](../images/lexa.jpg)
+## [Lexa Glucksman](https://minteamakes.wixsite.com/welcome)
+Composer, Narrative Consultant
 </div>
 
 <div markdown = 1>
-![alt](../images/esra.jpg)
-## Lexa Glucksman
-Composer
+![alt](../images/malachi.jpg)
+## [Malachi Gregory](https://malachigregorymusic.wixsite.com/website)
+Composer, Music Producer, Sound Designer
 </div>
+
+
 
 </div>
