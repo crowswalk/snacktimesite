@@ -10,4 +10,4 @@ title: Home
 Are you hungry?
 Get yourself a snack, 'cause we're just here to provide the entertainment. Check out the game we're currently working on: a narrative RPG called Signal Creek.
 
-[Press Kit](signalcreek.html){: .button}
+[Press Kit](https://docs.google.com/document/d/1WkEE3o5ZGTSK3bF3Y5Ujxyk5LZd-p7nYJo7SdPYofXc/edit?usp=sharing){: .button}
