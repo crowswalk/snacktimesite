@@ -21,10 +21,16 @@ Signal Creek is a year-long project designed by recent graduates of the NYU Game
 
 Signal Creek's demo showcases “The Floor of the Past”, which is the first of three levels. The next two will be “The Floor of the Present” and “The Floor of the Future”.
 
-![signal creek screenshot](images/DB46E6C2-7D16-43B3-932B-DF26476F747A.jpeg)
+![signal creek screenshot](images/6AE9CB3E-3493-4497-8269-0200A4EB135B.jpeg)
 
 The Floor of the Past consists of one story arc for each main character— Nour, Nick, and Ms. Suwan— and introduces players to the strange world of the Signal Creek mall.
 
+![signal creek screenshot](images/0A1E204D-AE97-481A-9F59-A9EF47D1FA9F.jpeg)
+
 This demo displays the psyche of Nour through its dynamic dialogue system, a robust cast of special NPCs, three explorable rooms, beautiful pixel art assets, and original music.
 
+![signal creek screenshot](images/DB46E6C2-7D16-43B3-932B-DF26476F747A.jpeg)
+
 Beyond the current demo, each character still has a journey of personal growth ahead of them, and their group dynamic will evolve. Furthermore, the upcoming floors will explore even more of the Signal Creek mall and the mystery behind its existence.
+
+![signal creek screenshot](images/3858D22D-7501-4B62-B9A6-A25A4AF49AEB.jpeg)
