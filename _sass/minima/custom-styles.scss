@@ -15,11 +15,11 @@ img {
 }
 
 body {
-    background-image: url('../../images/signal_creek_poster.jpg');
-    background-repeat: no-repeat;
-    background-size: auto 100%;
+    background-image: url('../../images/background_tile.png');
+    background-repeat: repeat;
+    // background-size: 740px;
     background-color: $body-color;
-    background-position-x: center;
+    // background-position-x: center;
     font-size: large;
 }
 
@@ -88,9 +88,9 @@ a:visited,
 }
 
 @media screen and (min-width: 1118px) {
-    body {
-        background-size: 100% auto;
-    }
+    // body {
+    //     background-size: 100% auto;
+    // }
 }
 
 .landing {
@@ -111,6 +111,12 @@ a:visited,
     grid-gap: $spacing-unit;
 }
 
+.gallery-box {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: $spacing-unit;
+}
+
 .team-box>div>p,
 .nutrition>p {
     margin: 0;
@@ -124,12 +130,15 @@ a:visited,
 
 @media screen and (min-width: 1118px) {
     body {
-        background-size: 100% auto;
+        // background-size: 100% auto;
     }
 }
 
 @media screen and (min-width: $on-medium) {
     .team-box {
         grid-template-columns: 1fr 1fr 1fr;
+    }
+    .gallery-box {
+        grid-template-columns: 1fr 1fr;
     }
 }
