@@ -5,6 +5,9 @@
 layout: landing
 title: Home
 ---
+
+[![Snacktime Games Banner](/images/brand_assets/signal_creek_banner.png)](/signalcreek.html){: .homebanner}
+
 # It's snacktime!
 
 Are you hungry?

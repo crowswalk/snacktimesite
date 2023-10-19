@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{%- include head.html -%}
+
+<body>
+
+    {%- include header.html -%}
+    <!-- <img id="landing-image" src="images/signal_creek_poster.jpg"> -->
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper landing">
+            <div class="nutrition-label-box">
+                <div class="nutrition-label">
+                    <div>
+                        <h1>Nutrition Facts</h1>
+                        <p>{{ page.intro }}</p>
+                    </div>
+                    {% include nutrients.html %}
+
+                </div>
+                <div>
+                    <strong><p style="margin:0">PRODUCT OF NEW YORK, NY, U.S.A.</p></strong>
+                    <p>Packaged on x/x/2022</p>
+                </div>
+            </div>
+
+            {{ content }}
+        </div>
+    </main>
+
+    {%- include footer.html -%}
+
+</body>
+
+</html>
