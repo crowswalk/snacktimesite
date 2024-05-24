@@ -12,10 +12,9 @@ itchlink: https://snacktimegames.itch.io/signal-creek
 ---
 
 ----
+# [Download on itch.io](https://snacktimegames.itch.io/signal-creek)
 
 Nour, a 22 year-old college student, sneaks into the soon-to-be demolished Signal Creek mall. She quickly finds herself trapped with Nick, her little brother’s best friend, and Ms. Suwan, her professional mentor. In order to escape the dreamlike reality of the mall, Nour must guide everyone—including herself—through a journey of reconciliation.
-
-[Download on itch.io](https://snacktimegames.itch.io/signal-creek)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1MBCDISOng8?si=t33ay7Z9cC2ds7tS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
