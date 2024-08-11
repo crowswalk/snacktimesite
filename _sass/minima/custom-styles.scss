@@ -10,6 +10,10 @@ h2,
     margin-bottom: 2px;
 }
 
+.site-nav .page-link {
+    color: $accent-color;
+}
+
 img {
     border-radius: 3px;
 }
@@ -21,6 +25,7 @@ body {
     background-color: $body-color;
     // background-position-x: center;
     font-size: large;
+    color: $accent-color-light;
 }
 
 hr {
