@@ -13,7 +13,7 @@ intro: snacktime games is a group of warm-blooded vertebrates characterized by t
 <div markdown = 1>
 ![alt](../images/team/ashley.jpg)
 ## [Ashley Whang](https://aw225.itch.io/)
-Project Manager, Narrative Designer & Writer
+Producer, Narrative Designer & Writer
 </div>
 
 <div markdown = 1>
@@ -43,7 +43,7 @@ Narrative Designer & Writer, Artist, UI/UX Designer
 <div markdown = 1>
 ![alt](../images/team/max.png)
 ## [Max Seavey](https://crowswalk.github.io/)
-Project Manager, Technical Narrative Designer & Writer, Artist
+Producer, Technical Narrative Designer & Writer, Artist, Programmer
 </div>
 
 <div markdown = 1>
