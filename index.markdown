@@ -10,9 +10,6 @@ title: Home
 
 # It's snacktime!
 
-Are you hungry?
-Get yourself a snack, 'cause we're just here to provide the entertainment. Check out the game we're currently working on: a narrative RPG called Signal Creek.
+Hey visitor! Signal Creek is out! We're an indie team without funding, in case you couldn't tell. We hope it endears you to us. Shoot us an email at snacktimegamestudio@gmail.com for press inquiries and a presskit. We gotta go to our day jobs now and will get back to you some time soon.
 
-[Signal Creek >>](signalcreek.html){: .button}
-
-[Press Kit](https://docs.google.com/document/d/1WkEE3o5ZGTSK3bF3Y5Ujxyk5LZd-p7nYJo7SdPYofXc/edit?usp=sharing){: .button}
+[Signal Creek >>](https://steam.snacktimegamestudio.com){: .button}
