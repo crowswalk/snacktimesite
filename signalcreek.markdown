@@ -16,4 +16,32 @@ itchlink: https://snacktimegames.itch.io/signal-creek
 
 We made this freaking thing in Godot 3.5 Mono! It's got pixel art, an abandoned mall, and some talking apples. Let's just say this is some awesome copywriting, the better copy is totally not on our Steam page, this totally isnt being written on one of the studio owners' phones right now.
 
-Highlighting the glamor of being ultra indie and DIY... NOBODY PAID US! (except for the nice people at Graffiti Games and Turbo who paid for our tables at PlayNYC. Shout out.)
+# CREDITS
+Highlighting the glamor of being ultra indie and DIY, we have...
+
+## Narrative Design
+Erna Balayan, Dominik Kopiczko, Kaz Li, Max Seavey, Sarah H. Slovak, Ash Whang
+## Writing & Concepting
+Erna Balayan, Dominik Kopiczko, Kaz Li, Max Seavey, Sarah H. Slovak, Ash Whang, _With help from Lexa Glucksman and Jaden Pickering_
+## Level & Game Design
+Dominik Kopiczko, _With help from Jaden Pickering_
+## Music Production
+Malachi Gregory
+## Music Composition
+Lexa Glucksman, Malachi Gregory
+## Sound Design
+Malachi Gregory, Max Seavey
+## Pixel Art
+Erna Balayan, Kaz Li, Max Seavey, _With help from Dominik Kopiczko_
+## Concept Art
+Erna Balayan, Kaz Li, Max Seavey
+## User Interface Design
+Kaz Li, Max Seavey
+## Programming
+Max Seavey, _With help from Erna Balayan and Jaden Pickering_
+## Production
+Ash Whang, Max Seavey
+## Business
+Max Seavey, Sarah H. Slovak
+## Marketing
+Ash Whang, Erna Balayan, Lexa Glucksman
